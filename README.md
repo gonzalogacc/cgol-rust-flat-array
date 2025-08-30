@@ -1,0 +1,1 @@
+# cgol-rust-flat-array
